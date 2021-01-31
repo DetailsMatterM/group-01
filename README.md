@@ -72,3 +72,11 @@ The PCB was designed in EAGLE CAD. It is used to connect the Ultrasonic Sensors 
 
 ## 5. The video
 Link: https://www.youtube.com/watch?v=jtvX933osug
+
+## 5. Team
+* Adam Shwehne
+* Fredrik Ullman
+* George Karageozian
+* Hassan Mualla
+* Moritz Denke
+* Thiago Hlebanja Oliva
